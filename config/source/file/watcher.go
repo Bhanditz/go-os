@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/micro/go-os/config"
-	"gopkg.in/fsnotify.v1"
+	"github.com/fsnotify/fsnotify"
 )
 
 type watcher struct {

@@ -5,7 +5,7 @@ package os
 */
 
 import (
-	"github.com/micro/go-os/config"
+	"github.com/pydio/go-os/config"
 )
 
 func NewSource(opts ...config.SourceOption) config.Source {

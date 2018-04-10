@@ -1,4 +1,4 @@
-# Event [![GoDoc](https://godoc.org/github.com/micro/go-os?status.svg)](https://godoc.org/github.com/micro/go-os/event)
+# Event [![GoDoc](https://godoc.org/github.com/pydio/go-os?status.svg)](https://godoc.org/github.com/pydio/go-os/event)
 
 A pluggable interface for platform event publishing and subscription.
 

@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/micro/go-os/config"
-	"github.com/micro/go-os/config/source/file"
+	"github.com/pydio/go-os/config"
+	"github.com/pydio/go-os/config/source/file"
 )
 
 var (

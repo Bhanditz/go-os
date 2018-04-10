@@ -1,4 +1,4 @@
-# Discovery [![GoDoc](https://godoc.org/github.com/micro/go-os?status.svg)](https://godoc.org/github.com/micro/go-os/discovery)
+# Discovery [![GoDoc](https://godoc.org/github.com/pydio/go-os?status.svg)](https://godoc.org/github.com/pydio/go-os/discovery)
 
 Discovery builds on the go-micro.Registry and is backed by the Micro OS discovery service.
 
@@ -38,7 +38,7 @@ func NewDiscovery(opts ...registry.Option) Discovery {
 ### With Flag
 
 ```go
-import _ "github.com/micro/go-os/discovery"
+import _ "github.com/pydio/go-os/discovery"
 ```
 
 ```shell
@@ -50,7 +50,7 @@ go run main.go --registry=os --registry_address=addr1:port,addr2:port,addr3:port
 ```go
 import (
 	"github.com/micro/go-micro"
-	"github.com/micro/go-os/discovery"
+	"github.com/pydio/go-os/discovery"
 )
 
 func main() {

@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/micro/go-micro"
-	"github.com/micro/go-os/kv"
+	"github.com/pydio/go-os/kv"
 )
 
 func init() {

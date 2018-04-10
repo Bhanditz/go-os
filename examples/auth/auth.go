@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/micro/go-micro/client"
-	"github.com/micro/go-os/auth"
+	"github.com/pydio/go-os/auth"
 	"golang.org/x/net/context"
 )
 

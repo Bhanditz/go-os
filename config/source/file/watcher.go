@@ -3,7 +3,7 @@ package file
 import (
 	"errors"
 
-	"github.com/micro/go-os/config"
+	"github.com/pydio/go-os/config"
 	"github.com/fsnotify/fsnotify"
 )
 

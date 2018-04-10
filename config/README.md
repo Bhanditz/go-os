@@ -1,4 +1,4 @@
-# Config [![GoDoc](https://godoc.org/github.com/micro/go-os?status.svg)](https://godoc.org/github.com/micro/go-os/config)
+# Config [![GoDoc](https://godoc.org/github.com/pydio/go-os?status.svg)](https://godoc.org/github.com/pydio/go-os/config)
 
 Provides a high level pluggable abstraction for dynamic configuration.
 

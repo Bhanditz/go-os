@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-os/db"
+	"github.com/pydio/go-os/db"
 	"github.com/pborman/uuid"
 )
 

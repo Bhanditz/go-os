@@ -1,7 +1,7 @@
 package memory
 
 import (
-	"github.com/micro/go-os/config"
+	"github.com/pydio/go-os/config"
 )
 
 type Watcher struct {

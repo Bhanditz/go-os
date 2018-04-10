@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-os/event"
+	"github.com/pydio/go-os/event"
 
 	"golang.org/x/net/context"
 )

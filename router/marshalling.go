@@ -2,7 +2,7 @@ package router
 
 import (
 	"github.com/micro/go-micro/registry"
-	router "github.com/micro/go-os/router/proto"
+	router "github.com/pydio/go-os/router/proto"
 )
 
 func values(v []*registry.Value) []*router.Value {

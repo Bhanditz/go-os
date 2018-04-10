@@ -1,4 +1,4 @@
-# Auth [![GoDoc](https://godoc.org/github.com/micro/go-os?status.svg)](https://godoc.org/github.com/micro/go-os/auth)
+# Auth [![GoDoc](https://godoc.org/github.com/pydio/go-os?status.svg)](https://godoc.org/github.com/pydio/go-os/auth)
 
 Provides a high level pluggable abstraction for authentication and authorisation.
 

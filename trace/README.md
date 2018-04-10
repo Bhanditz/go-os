@@ -1,4 +1,4 @@
-# Trace [![GoDoc](https://godoc.org/github.com/micro/go-os?status.svg)](https://godoc.org/github.com/micro/go-os/trace)
+# Trace [![GoDoc](https://godoc.org/github.com/pydio/go-os?status.svg)](https://godoc.org/github.com/pydio/go-os/trace)
 
 Provides a pluggable distributed tracing interface
 
@@ -52,16 +52,16 @@ func NewTrace(opts ...Option) Trace {
 
 ## Usage
 
-You can either manually use the Trace interface to create and collect spans - look at the [wrappers](https://github.com/micro/go-os/blob/master/trace/wrapper.go) 
+You can either manually use the Trace interface to create and collect spans - look at the [wrappers](https://github.com/pydio/go-os/blob/master/trace/wrapper.go) 
 for an example - or use the client and server wrappers which will be called on every request made or received.
 
-Also check out [go-os/examples/trace](https://github.com/micro/go-os/tree/master/examples/trace).
+Also check out [go-os/examples/trace](https://github.com/pydio/go-os/tree/master/examples/trace).
 
 ```go
 import (
 	"github.com/micro/go-micro"
 	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-os/trace"
+	"github.com/pydio/go-os/trace"
 )
 
 func main() {
